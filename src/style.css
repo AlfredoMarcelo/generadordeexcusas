@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+button:hover {
+  background-color: rgb(166, 206, 166);
+}
+body {
+  background-color: goldenrod;
+}
